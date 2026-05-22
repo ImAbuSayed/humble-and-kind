@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I dim the lights and let the record spin
+> Your silhouette is where the night begins
+> I pull you closer, feel your breathing slow
+> There ain't another place I'd rather go
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
